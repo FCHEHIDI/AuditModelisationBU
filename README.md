@@ -1,5 +1,7 @@
 # Audit Modélisation Bibliothèque Universitaire
 
+![AuditModelisationBU](auditexpert.png)
+
 Dashboard interactif d'audit et de correction d'un Modèle Conceptuel de Données (MCD) pour une bibliothèque universitaire.
 
 ## 🎯 Objectif
